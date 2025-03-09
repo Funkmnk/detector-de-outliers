@@ -1,0 +1,31 @@
+# Arquivos de byte-code Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição / empacotamento
+dist/
+build/
+*.egg-info/
+
+# Arquivos do PyInstaller
+*.manifest
+*.spec
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Arquivos IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
