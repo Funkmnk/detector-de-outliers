@@ -23,6 +23,11 @@ Um programa simples para analisar conjuntos de dados e identificar valores atíp
 - Python 3.6 ou superior (para executar o código fonte)
 - Não são necessárias bibliotecas externas, apenas as bibliotecas padrão do Python
 
+### Usando o executável
+
+1. Baixe o arquivo executável da página de [Releases](https://github.com/Funkmnk/detector-de-outliers/releases)
+2. Execute o arquivo `Detector_de_Outliers.exe`
+
 ### A partir do código fonte
 
 ```bash
