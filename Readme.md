@@ -54,7 +54,3 @@ Este programa utiliza o método estatístico z-score para identificar valores at
 1. Calcula a média e o desvio padrão do conjunto
 2. Para cada valor, calcula seu z-score: (valor - média) / desvio_padrão
 3. Um valor é considerado outlier se seu z-score absoluto for maior que a sensibilidade definida (padrão: 2.0)
-
-## Autor
-
-Igor Ferreira Chagas
